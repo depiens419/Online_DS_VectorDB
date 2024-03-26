@@ -13,4 +13,5 @@
 
 Test
 
-github 홈페이지에서 변경
+conda activate fastcampus-vdb
+conda deactivate
